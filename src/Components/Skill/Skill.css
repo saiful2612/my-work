@@ -1,0 +1,12 @@
+.skill img{
+    width: 13%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.skill{
+    background-color:silver;
+    border-radius: 10px;
+    padding: 3px;
+    margin-top: 10px;
+}

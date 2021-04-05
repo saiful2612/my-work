@@ -1,0 +1,21 @@
+.profile img{
+    width: 100%;
+}
+
+.profile{
+    background-color: skyblue;
+    border-radius: 10px;
+}
+
+.Marked{
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.profile p{
+    padding: 10px;
+    line-height: normal;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

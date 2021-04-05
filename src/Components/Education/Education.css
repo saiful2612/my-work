@@ -1,0 +1,14 @@
+.academic{
+    background-color: skyblue;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.academic p{
+    line-height: normal;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 10px;
+}

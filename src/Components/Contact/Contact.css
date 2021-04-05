@@ -1,0 +1,13 @@
+.contact{
+    background-color: steelblue;
+    border-radius: 10px;
+    padding: 5px;
+    line-height: normal;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact p{
+    margin-left: 10px;
+    padding: 1px;
+}

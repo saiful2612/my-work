@@ -1,0 +1,29 @@
+.work{
+    display: flex;
+    
+}
+
+.work img {
+    width: 70%;
+}
+
+.workOne{
+    margin: 20px;
+    padding: 10px;
+    padding-bottom: 2px;
+}
+
+.workTwo{
+    margin: 20px;
+}
+
+.project{
+    background-color: teal;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 1%;
+}
+
+.project h3{
+    padding-bottom: 5px;
+}
